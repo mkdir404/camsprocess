@@ -1,3 +1,1 @@
-ricardoalba      11559   2.9  0.2  4371232  13012 s002  S+    3:16PM   0:01.63 ffmpeg -i rtsp://admin:123456@192.168.1.65 -threads 1 -c:v libx264 -b:v 350K -s 640x360 -c:v copy -c:a copy -f flv rtmp://54.86.75.129/show/cam711221
-ricardoalba      11658   2.4  0.2  4371272  13044 s004  S+    3:17PM   0:01.37 ffmpeg -i rtsp://admin:123456@192.168.1.65 -threads 1 -c:v libx264 -b:v 350K -s 640x360 -c:v copy -c:a copy -f flv rtmp://54.86.75.129/show/cam711220
-ricardoalba      12307   0.0  0.0  4287736    696 s001  S+    3:18PM   0:00.00 grep ffmpeg
+ricardoalba      14982   0.0  0.0  4287736    700 s005  S+    3:28PM   0:00.00 grep ffmpeg
