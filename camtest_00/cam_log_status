@@ -15,3 +15,6 @@ Proceso se restablece 'Mon May 11 15:17:04 CDT 2020 ffmpeg -i rtsp://admin:12345
 Proceso en ejecucion 'Mon May 11 15:17:56 CDT 2020 ffmpeg -i rtsp://admin:123456@192.168.1.65 -threads 1 -c:v libx264 -b:v 350K -s 640x360 -c:v copy -c:a copy -f flv rtmp://54.86.75.129/show/cam711220' 
 Proceso en ejecucion 'Mon May 11 15:18:03 CDT 2020 ffmpeg -i rtsp://admin:123456@192.168.1.65 -threads 1 -c:v libx264 -b:v 350K -s 640x360 -c:v copy -c:a copy -f flv rtmp://54.86.75.129/show/cam711221' 
 Proceso se restablece 'Mon May 11 15:28:48 CDT 2020 ffmpeg -i rtsp://admin:123456@192.168.1.65 -threads 1 -c:v libx264 -b:v 350K -s 640x360 -c:v copy -c:a copy -f flv rtmp://54.86.75.129/show/cam711220' 
+Proceso se restablece 'Mon May 11 15:34:54 CDT 2020 ffmpeg -i admin:123456@192.168.1.65 -threads 1 -c:v libx264 -b:v 350K -s 640x360 -c:v copy -c:a copy -f flv rtmp://54.86.75.129/show/cam711221' 
+Proceso se restablece 'Mon May 11 17:57:39 CDT 2020 ffmpeg -i rtsp://admin:123456@192.168.1.65 -threads 1 -c:v libx264 -b:v 350K -s 640x360 -c:v copy -c:a copy -f flv rtmp://54.86.75.129v/show/cam711220' 
+Proceso se restablece 'Mon May 11 17:57:41 CDT 2020 ffmpeg -i rtsp://admin:123456@192.168.1.65 -threads 1 -c:v libx264 -b:v 350K -s 640x360 -c:v copy -c:a copy -f flv rtmp://54.86.75.129/show/cam711220' 

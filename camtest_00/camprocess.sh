@@ -1,6 +1,11 @@
-#Este proceso debe correr cada 3 minutos , asi se asegura que si la cam no levanta se cierra el proceso.
-# orden camnumero , ip cam  , mediastream 
-# Ejmplpo de como se pone en el cron ./camprocess.sh cam711220 rtsp://admin:123456@192.168.1.65 54.86.75.129
+#! /bin/bash
+
+:'
+    Este proceso debe correr cada 3 minutos , asi se asegura que si la cam no levanta se cierra el proceso.
+    orden camnumero , ip cam  , mediastream 
+    Ejmplpo de como se pone en el cron ./camprocess.sh cam711220 rtsp://admin:123456@192.168.1.65 54.86.75.129
+'
+
 args=("$@")
 numcam=${args[0]}
 ip=${args[1]}
